@@ -1,0 +1,27 @@
+
+the block after Mining
+Block[
+  transactions = shad has 700$ to Miguel has 550$ 
+ , blockHash = 0Xpq4LvvB0LnWZzMu/rWcd/3IpsmiNga3lrwGGlbT2E= 
+ , previousHash= 0
+ ] 
+the Nonos : 16
+______________________________
+
+the block after Mining
+Block[
+  transactions = Ahmed has 400$ to Iprahem has 250$ 
+ , blockHash = 0bOW170FQUlX/GXUvr1y5U1BRDgNmmNZnGMswYzHY8k= 
+ , previousHash= 0Xpq4LvvB0LnWZzMu/rWcd/3IpsmiNga3lrwGGlbT2E=
+ ] 
+the Nonos : 9
+______________________________
+
+the block after Mining
+Block[
+  transactions = Luay has 420$ to Matar has 950$ 
+ , blockHash = 0LB6YKQbsyC7FiEHnzNIaA0Mw2NAsXGJdfKNpPJIOd0= 
+ , previousHash= 0bOW170FQUlX/GXUvr1y5U1BRDgNmmNZnGMswYzHY8k=
+ ] 
+the Nonos : 132
+______________________________
